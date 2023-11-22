@@ -10,3 +10,5 @@
 ## git commit -m "ths is first commit"
 
 ## git pull for fetching changes from repo 
+
+## bash "file name" for running sh(shell script)
