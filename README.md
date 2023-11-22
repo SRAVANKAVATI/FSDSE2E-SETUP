@@ -8,3 +8,5 @@
 ## git add .
 
 ## git commit -m "ths is first commit"
+
+## git pull for fetching changes from repo 
