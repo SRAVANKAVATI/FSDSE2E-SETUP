@@ -18,3 +18,7 @@ logging.basicConfig(level=logging.INFO,
                     
 )
 
+
+
+if  __name__ == '__main__':
+    logging.info("i have tested for seconf time")
