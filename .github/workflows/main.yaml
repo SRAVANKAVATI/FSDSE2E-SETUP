@@ -1,7 +1,7 @@
 name: Build and push image to ECR
 on:
  push:
-   barnches:
+   branches:
      - main
 
 
